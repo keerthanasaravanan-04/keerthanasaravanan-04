@@ -1,6 +1,6 @@
 ##  Hi, I'm Keerthana Saravanan! 🙋‍♀️
 ### ✨About me✨
-**💻 Web developer and software devloper 💻**
+**💻 Web developer and software developer 💻**
 - ✍️ I’m interested in **programming & coding**
 - ✍️ I’m currently learning **API & DSA**
 - 🤖 I’m looking to collaborate on **AI/ML**
