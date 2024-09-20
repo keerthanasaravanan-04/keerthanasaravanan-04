@@ -12,7 +12,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" src="https://img.icons8.com/material-sharp/48/github.png" alt="github"/>
 <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-## leetcode stat
+## Leet Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keerthanasaravanan04?theme=dark&font=Strait)
 <br>
 
