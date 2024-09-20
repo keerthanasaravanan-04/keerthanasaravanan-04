@@ -1,10 +1,11 @@
 ##  Hi, I'm Keerthana Saravanan! 🙋‍♀️
 ### ✨About me✨
-**💻 Web developer and software developer 💻**
->- ✍️ I’m interested in **programming & coding**
->- ✍️ I’m currently learning **API & DSA**
->- 🤖 I’m looking to collaborate on **AI/ML**
->- 🙋‍♀️ Fun fact: I Know korean
+**💻 Web developer and software developer 💻**.
+>- ✍️ I’ve been fascinated by **programming & coding**.
+>- ✍️ I’m currently learning **API & DSA**.
+>- 🤖 I’ve been interested in on **AI/ML**.
+>- 🙋‍♀️ I consider myself as a **lifelong learner**.
+>- 🙋‍♀️ Fun fact: I Know korean.
 
 ## Languages and Tools:
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
