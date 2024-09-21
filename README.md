@@ -1,4 +1,6 @@
 ##  Hi, I'm Keerthana Saravanan! 🙋‍♀️
+<img align="right" width="370" height="290" scr="">
+
 ### ✨About me✨
 **💻 Web developer and software developer 💻**.
 >- ✍️ I’ve been fascinated by **programming & coding**.
