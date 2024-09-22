@@ -1,7 +1,7 @@
 ##  Hi, I'm Keerthana Saravanan! 🙋‍♀️
 
 
-### ✨About me✨
+### ✨About me✨ 
 **💻 Web developer and software developer 💻**.
 >- ✍️ I’ve been fascinated by **programming & coding**.
 >- ✍️ I’m currently learning **API & DSA**.
