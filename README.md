@@ -1,5 +1,6 @@
 ##  Hi, I'm Keerthana Saravanan! 🙋‍♀️
 
+![gif](https://github.com/user-attachments/assets/8dff4612-ea42-4537-834b-f8a14205b3c0)
 
 ### ✨About me✨ 
 **💻 Web developer and software developer 💻**.
